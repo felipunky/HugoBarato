@@ -1,0 +1,8 @@
+﻿  Main.c
+C:\Users\Acer\source\repos\HugoBarato\HugoBarato\Main.c(22,46): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+  Generando código
+  1 of 6 functions (16.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  HugoBarato.vcxproj -> C:\Users\Acer\source\repos\HugoBarato\x64\Release\HugoBarato.exe
